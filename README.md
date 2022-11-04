@@ -62,6 +62,12 @@ Se proveen los archivos dentro del archivo comprimido 'properties_colombia.zip':
 ​
 ## Observaciones:
 ​
+En la parte superior se tienen dos archivos de jupyter notebook que corresponden en primera instancia a un trabajo de ETL y predicción general
+y en segunda instancia se hace hincapié solamente en las predicciones a partir de vincularse mediante un archivo csv a los datos filtrados (que se encuentra en la parte superior (train_luego_ETL.csv)
+También se ha guardado un resguardo de los datos antes de quitar outliers a modo de backup que se llama antes_outliers.csv tambien disponible
+​
+## Observaciones:
+​
 Luego de realizada la exploración se observó la ubicación de las propiedades. Sacando dos outliers se obtuvo:
 ![01Mapa](https://user-images.githubusercontent.com/104787036/200039439-6ec5492b-2b8d-4edf-b2a5-a93b2c8681b4.JPG)
 Luego de realizada la exploración y rellenadas las coordenadas según el nombre de la ciudad de Colombia se obtuvieron los siguientes valores por feature:
