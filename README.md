@@ -1,6 +1,4 @@
 # PI02_machine_learning
-# Proyecto individual 2
-
 ​
 ## Información relevante
 ​
