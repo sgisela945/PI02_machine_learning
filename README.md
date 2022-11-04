@@ -1,8 +1,5 @@
 # PI02_machine_learning
 ​
-## Información relevante
-​
-Este proyecto es una instancia de evaluación, por lo cual es INDIVIDUAL y OBLIGATORIO para los alumnos de Data Science de Henry. Se disponibilizará un Google Form y pueden cargarse los resultados las veces que quieran. Es obligatorio que todos disponibilicen el código utilizado, para validar los modelos construidos.
 ​
 ## Mercado inmobiliario
 ​
