@@ -65,4 +65,4 @@ Se proveen los archivos dentro del archivo comprimido 'properties_colombia.zip':
 ## Observaciones:
 ​
 Luego de realizada la exploración se observó la ubicación de las propiedades. Sacando dos outliers se obtuvo:
-<img src="01Mapa.jpg"/>
+![01Mapa](https://user-images.githubusercontent.com/104787036/200039439-6ec5492b-2b8d-4edf-b2a5-a93b2c8681b4.JPG)
