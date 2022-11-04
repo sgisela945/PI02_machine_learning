@@ -65,4 +65,4 @@ Se proveen los archivos dentro del archivo comprimido 'properties_colombia.zip':
 ## Observaciones:
 ​
 Luego de realizada la exploración se observó la ubicación de las propiedades. Sacando dos outliers se obtuvo:
-<img src="01Mapa.jpg" alt="Ubiacion propiedades"/>
+<img src="01Mapa.jpg"/>
