@@ -68,3 +68,7 @@ Luego de realizada la exploración y rellenadas las coordenadas según el nombre
 
 Luego de quitar outliers s obtuvo el siguiente pair plot entre las variables
 ![04 Pairplot](https://user-images.githubusercontent.com/104787036/200040085-5e81fdb0-2a4e-499d-808e-e047eaf806ff.JPG)
+
+En la elección de features a utilizar se obtuvo en cuenta la relevancia en relación a la variable target a obtener
+![05 Seleccion de features](https://user-images.githubusercontent.com/104787036/200040413-403618ed-992d-4cab-b571-b6c6af74bc93.JPG)
+
