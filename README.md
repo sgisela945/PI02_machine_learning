@@ -67,3 +67,6 @@ Se proveen los archivos dentro del archivo comprimido 'properties_colombia.zip':
 Luego de realizada la exploración se observó la ubicación de las propiedades. Sacando dos outliers se obtuvo:
 ![01Mapa](https://user-images.githubusercontent.com/104787036/200039439-6ec5492b-2b8d-4edf-b2a5-a93b2c8681b4.JPG)
 Luego de realizada la exploración y rellenadas las coordenadas según el nombre de la ciudad de Colombia se obtuvieron los siguientes valores por feature:
+
+Luego de quitar outliers s obtuvo el siguiente pair plot entre las variables
+![04 Pairplot](https://user-images.githubusercontent.com/104787036/200040085-5e81fdb0-2a4e-499d-808e-e047eaf806ff.JPG)
